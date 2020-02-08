@@ -1,0 +1,15 @@
+h2{
+	font-family: cursive;
+	color: blue;
+	margin: 10px;
+	text-align: center;
+}
+.myidentiter{
+	border: 1px solid black;
+}
+.myidentiter  h5{
+	font-family: fantasy;
+	
+	font-size: 30px;
+	color: red;
+}
